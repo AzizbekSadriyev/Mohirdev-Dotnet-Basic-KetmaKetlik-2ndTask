@@ -6,7 +6,6 @@ Input = 5;
 Input = +;
 Input = 5;
 Output = 10;
-
 */
 
 namespace Task
